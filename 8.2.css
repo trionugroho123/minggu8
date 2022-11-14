@@ -1,0 +1,18 @@
+p {
+    font-family: 'Trebuchet MS';
+    line-height: 2em;
+    color: rgb(0, 248, 83);
+   }
+   i {
+    font-family: Impact;
+    color: rgb(254, 44, 7);
+   }
+   h2 {
+    font-family: 'Courier New';
+    color: rgb(76, 21, 214);}
+    body{
+        background-image: 
+        url(mancing.jpeg);
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
